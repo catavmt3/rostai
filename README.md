@@ -42,4 +42,4 @@ Python · PyTorch · ResNet18 · Transfer Learning · Grad-CAM · Pandas · NumP
 ## Fuente de datos
 
 - **EDA:** USDA — Coffee Production, Supply and Distribution ([Kaggle](https://www.kaggle.com/datasets/parasrupani/coffee-distribution-across-94-counties))
-- **Modelo:** Coffee Bean Dataset V1 ([Kaggle](https://www.kaggle.com/datasets/sot2542/coffee-bean-dataset-v1))
+- **Modelo:** Coffee Bean Dataset V1 ([Kaggle](https://www.kaggle.com/datasets/sot2542/coffee-bean-dataset-v1)) incrementado con fotos propias.
